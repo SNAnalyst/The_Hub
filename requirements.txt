@@ -20,7 +20,7 @@ ipykernel==4.5.2
 ipython==5.3.0
 ipython-genutils==0.2.0
 itsdangerous==0.24
-Jinja2==2.9.4
+Jinja2==2.11.3
 jsonify==0.5
 jsonschema==2.6.0
 jupyter-client==5.0.0
